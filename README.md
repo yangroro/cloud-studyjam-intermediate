@@ -1,4 +1,3 @@
-# cloud-studyjam-intermediate
 # [Google Cloud Studyjam(k8s in GCP)](https://www.coursera.org/programs/kr-cloud-dev-edu-uji5s)
 
 ## 공지
